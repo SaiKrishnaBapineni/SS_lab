@@ -1,0 +1,4 @@
+"hi am i going to finish 70 lab execersieces in a week i literally in 9th question ,,GG boyis"
+written using fd1written using fd2
+this is written by parent process 
+this is written by child process 
